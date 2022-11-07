@@ -5,8 +5,8 @@
     这是msedge & chrome插件，因为常用msedge，所以只是在msedge上面测试过了。  
     
 
-## 去掉登录才能复制的限制
-## 去掉cn.bing.com 推广必应
+    去掉 csdn 登录才能复制的限制
+    去掉cn.bing.com 推广必应
 
     
 
