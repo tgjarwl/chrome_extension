@@ -14,7 +14,7 @@
 	},
 	"content_scripts": [
         {
-            "matches": ["*://blog.csdn.net/*"],
+            "matches": ["*://blog.csdn.net/*","*://cn.bing.com/*"],
             "js": ["lib/jquery.min.js","content-scripts/content.js"]
         }
     ],
